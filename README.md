@@ -13,7 +13,7 @@ This repository contains OpenCore configuration files and documentation for runn
 | Storage | Crucial MX500 250GB SSD |
 | Graphics | Radeon RX 6800 GAMING OC 16G |
 | Ethernet | Intel i225-V 2.5GbE |
-| Wi-Fi | Intel® Wi-Fi 6 AX200 |
+| Wi-Fi/Bluetooth | MediaTek MT7921k (won't work) |
 
 ### Additional Storage Note
 - SK Hynix PC711 NVMe drive is present but disabled in OpenCore config to avoid conflicts
